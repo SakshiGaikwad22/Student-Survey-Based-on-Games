@@ -66,11 +66,6 @@ This project analyzes student spending behavior across different store settings 
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add screenshots here)
-
----
 
 ## 📁 Project Structure
 
